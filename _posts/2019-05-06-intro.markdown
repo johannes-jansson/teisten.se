@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Introduktion"
+date:   2019-05-06 00:39:21 +0200
+tags: meta asdf
+---
+
+> Om den här hemsidan
+
+
+Tanken är att den här hemsidan ska få bli en samlingsplats för sådant jag ändå vill dela i andra sammanhang. 
