@@ -1,11 +1,15 @@
 ---
 layout: post
-title:  "Introduktion"
-date:   2019-05-06 00:39:21 +0200
+title:  "Om den här hemsidan"
+date:   2019-05-06 23:08:21 +0200
 tags: meta asdf
 ---
 
 > Om den här hemsidan
 
-
-Tanken är att den här hemsidan ska få bli en samlingsplats för sådant jag ändå vill dela i andra sammanhang. 
+Jag tycker om att läsa och fundera kring apologetik, predikan, teologi och filosofi. 
+Ibland kommer det något gott ur det. 
+Tanken är att den här hemsidan ska få bli en samlingsplats för sådant jag knåpar ihop och känner har något värde. 
+Sånt jag vill kunna gå tillbaka till och sånt vill dela i andra sammanhang. 
+Kanske mest för mig själv, kanske för någon annan. 
+Det får vi se!
