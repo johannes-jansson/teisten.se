@@ -22,3 +22,8 @@ h1, h2, h3, h4, h5, h6 {
 /* Länkfärg i varm kaffe/papyrus-ton (valfritt) */
 a { color: #b5884a; }
 a:hover { color: #996f38; }
+
+/* Dölj rubriken ovanför hero-bilden på startsidan */
+.home .page__title {
+  display: none !important;
+}
