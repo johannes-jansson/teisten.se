@@ -23,7 +23,10 @@ h1, h2, h3, h4, h5, h6 {
 a { color: #b5884a; }
 a:hover { color: #996f38; }
 
-/* Dölj rubriken på startsidan */
+/* Dölj rubrikerna på startsidan */
 .layout--home .intro {
+  display: none !important;
+}
+.layout--home .section-title {
   display: none !important;
 }
