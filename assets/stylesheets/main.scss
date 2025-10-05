@@ -1,14 +1,18 @@
 ---
+# Endast huvud-Sass-filen behöver front matter
 ---
 
-@import "main";
+@charset "utf-8";
+
+@import "basically-basic/themes/{{ site.data.theme.skin | default: 'default' }}";
+@import "basically-basic";
 
 /* Rubriker i skrivmaskinsstil */
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Speical Elite', 'Courier New', monospace;
+  font-family: 'Cutive Mono', 'Courier New', monospace;
   letter-spacing: .01em;
 }
 
-/* varm länkfärg i kaffe/papyrus-ton */
+/* Länkfärg i varm kaffe/papyrus-ton (valfritt) */
 a { color: #b5884a; }
 a:hover { color: #996f38; }
