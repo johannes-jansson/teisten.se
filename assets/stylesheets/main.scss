@@ -1,0 +1,14 @@
+---
+---
+
+@import "main";
+
+/* Rubriker i skrivmaskinsstil */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Speical Elite', 'Courier New', monospace;
+  letter-spacing: .01em;
+}
+
+/* varm länkfärg i kaffe/papyrus-ton */
+a { color: #b5884a; }
+a:hover { color: #996f38; }
