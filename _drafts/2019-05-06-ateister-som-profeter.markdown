@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Ateister som profeter"
 date:   2019-05-06 23:10:21 +0200
 tags: ateism marx nietzsche freud suspicion-and-faith

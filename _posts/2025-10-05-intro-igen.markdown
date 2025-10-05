@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Omstart"
 date:   2025-10-05 22:33:21 +0200
 tags: meta
