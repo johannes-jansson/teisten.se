@@ -1,0 +1,12 @@
+# Välj färgtema ("skin")
+# Alternativ: default, night, plum, sea, soft, steel
+skin: soft  # varm, mjuk ton som passar "papyrus/kaffe"
+
+# Google Fonts (laddas automatiskt av temat)
+google_fonts:
+  - name: "Special Elite"     # rubriker i skrivmaskinsstil
+    weights: "400"
+
+# (valfri menyordning)
+# navigation_pages:
+#   - about.md
