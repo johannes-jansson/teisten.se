@@ -8,6 +8,7 @@ baseurl: ""
 url: "https://teisten.se"
 lang: sv
 timezone: Europe/Stockholm
+markdown: kramdown
 
 # Misc
 remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
