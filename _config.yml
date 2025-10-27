@@ -18,8 +18,9 @@ search: true
 gems:
   - jekyll-paginate
 
-paginate: 5
+paginate: 10
 paginate_path: /page:num/
+permalink: /:title/
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
